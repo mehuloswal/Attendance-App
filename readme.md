@@ -1,4 +1,4 @@
-# Attendance Management Application
+# Attendance Management Task
 
 This project is an attendance management application built with React for the frontend and Express.js for the backend. The application allows you to view, add, and remove attendance records.
 

@@ -11,4 +11,6 @@ To install and set up the project, follow these steps:
 3. Navigate to the backend directory and run npm install to install the backend dependencies.
 4. Ensure that you have a MongoDB instance running and the connection string is correctly set in the .env file in the backend directory.
 
+Note : Frontend Port : 3000 | Backend Port : 4000
+
 ### Please find the attached .pdf file for answers on tasks.

@@ -3,7 +3,7 @@ import axios from 'axios';
 const BASE_URL =
 	process.env.NODE_ENV === 'production'
 		? '/api/attendance'
-		: 'http://localhost:3000/api/attendance';
+		: 'http://localhost:4000/api/attendance';
 
 const apiService = {
 	fetchAttendanceRecords: async () => {
